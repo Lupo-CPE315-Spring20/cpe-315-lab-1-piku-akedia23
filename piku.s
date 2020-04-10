@@ -26,9 +26,7 @@ main:
     @ automatically adds a NULL character termination.
 line1:
     .asciz  "Covid and Kobe\n"
-
 line2:
     .asciz  "N set on twenty-twenty\n"
-
 line3:
     .asciz  "bmi by, Pi\n"
