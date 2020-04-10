@@ -3,7 +3,7 @@
 ## Akash Kedia
 
 ## Lab Status
-- Complete
+Complete
 
 ## Compilation and execution instructions
 ```
