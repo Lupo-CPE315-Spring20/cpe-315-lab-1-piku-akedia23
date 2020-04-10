@@ -1,6 +1,6 @@
 # CPE 315 Lab 1 -- Piku
 
-## Akash Kedia
+**Akash Kedia**
 
 ## Lab Status
 Complete
